@@ -1,0 +1,4 @@
+.idea/*
+images/*
+images/front/*
+application/helpers/dompdf/*
